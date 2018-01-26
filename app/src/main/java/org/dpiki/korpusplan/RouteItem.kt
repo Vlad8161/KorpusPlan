@@ -6,5 +6,6 @@ package org.dpiki.korpusplan
 
 class RouteItem(
         val resourceImage: Int,
-        val title: String
+        val title: String,
+        val floor: Int
 )
